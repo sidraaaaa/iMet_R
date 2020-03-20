@@ -1,7 +1,7 @@
-#Name: Sidra Na
+#Name: Sidra
 #Project 2
 
-setwd("C:\\Users\\sidra\\Desktop\\iupui 3rd year\\fall semester 2019\\COMP FOR SCIEN APP N317\\R\\project")
+setwd("C:\\Users\\sidra\\Desktop\\R\\project")
 #Purpose:
 
 
